@@ -1,5 +1,4 @@
 
-
 h1 {
   font-size: 40px;
   font-family: Arial
@@ -15,6 +14,12 @@ p {
   font-size: 14px;
   font-family: Arial
 }
+div {
+  background-color: darkcyan;
+  text-align: right;
+}
+
+
 
 th, td {
  padding: 8px;
